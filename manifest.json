@@ -1,0 +1,7 @@
+{
+  "name": "Brain Command Center",
+  "short_name": "Brain Command Center",
+  "display": "browser",
+  "start_url": ".",
+  "icons": []
+}
